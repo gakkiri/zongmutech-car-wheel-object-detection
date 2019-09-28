@@ -14,6 +14,9 @@
 
 # 用法
 1. 需求
+### Ubuntu18.04, WIN10(经过测试)  
+### python3.6 +  
+### pytorch1.0 +    
 ```
 pip install -r requirements.txt
 ```
