@@ -1,14 +1,14 @@
 # zongmutech-car-wheel-object-detection
 
 # 目录结构
----data
-  |     |-train
-  |     |-train_label
-  |     |-test
-  |     |-test_label
-  |
-  |-ens-...
-  |-data_test
+---data  
+  |   |-train  
+  |   |-train_label  
+  |   |-test  
+  |   |-test_label  
+  |  
+  |-ens-...  
+  |-data_test  
 
 # 用法
 1. 需求
