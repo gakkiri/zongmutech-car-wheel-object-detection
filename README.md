@@ -1,4 +1,6 @@
 # zongmutech-car-wheel-object-detection
+### mAP: 76.4  -  3rd
+
 
 # 目录结构
 ---data  
