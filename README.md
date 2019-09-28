@@ -25,3 +25,8 @@ python inference_ens.py --image_folder='../data_test'
 ```
 python submit_xml.py
 ```
+# 推理结果
+![result]https://github.com/joinssmith/zongmutech-car-wheel-object-detection/blob/master/imgs/result.png
+
+# 模型
+![model]https://github.com/joinssmith/zongmutech-car-wheel-object-detection/blob/master/imgs/model.png
