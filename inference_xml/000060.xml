@@ -1,0 +1,30 @@
+<annotation>
+  <filename>000060.jpg</filename>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>477</xmin>
+      <ymin>103</ymin>
+      <xmax>619</xmax>
+      <ymax>221</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>663</xmin>
+      <ymin>153</ymin>
+      <xmax>697</xmax>
+      <ymax>183</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>635</xmin>
+      <ymin>160</ymin>
+      <xmax>657</xmax>
+      <ymax>179</ymax>
+    </bndbox>
+  </object>
+</annotation>
