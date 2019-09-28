@@ -1,0 +1,4 @@
+classes= 5
+train=yolov3/train.txt
+valid=yolov3/test.txt
+names=yolov3/classes.names
